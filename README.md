@@ -1,2 +1,4 @@
 #test
- New text
+New text
+
+Another new text and new file
